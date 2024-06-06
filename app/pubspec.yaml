@@ -25,3 +25,8 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+assets:
+  -images/lawnmower.jpg
+  -images/dog-leash.webp
+  -images/adaptive-icon.png
